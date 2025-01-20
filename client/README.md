@@ -9,34 +9,42 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Inside the project directory, you can run the following commands:
 
 ### 1. **Start the Development Server**
+
 ```bash
 npm start
 ```
+
 - Runs the app in development mode.
-- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Open [http://](http://localhost:3000) to view it in your browser.
 - The page will reload automatically as you make changes.
 - Lint errors will be displayed in the console if they exist.
 
 ### 2. **Run Tests**
+
 ```bash
 npm test
 ```
+
 - Launches the test runner in interactive watch mode.
 - Learn more about [running tests](https://facebook.github.io/create-react-app/docs/running-tests).
 
 ### 3. **Build for Production**
+
 ```bash
 npm run build
 ```
+
 - Builds the app for production in the `build` folder.
 - Creates an optimized, minified bundle with hashed filenames for caching.
 - The build is ready for deployment.
 - Learn more about [deployment](https://facebook.github.io/create-react-app/docs/deployment).
 
 ### 4. **Eject Configuration**
+
 ```bash
 npm run eject
 ```
+
 - **Note:** This is irreversible! Once ejected, you cannot undo this action.
 - Removes the single build dependency.
 - Copies all configurations (e.g., Webpack, Babel, ESLint) into your project for customization.
@@ -47,10 +55,12 @@ npm run eject
 ## 📚 Learn More
 
 ### Official Documentation:
+
 - [Create React App Docs](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React Documentation](https://reactjs.org/)
 
 ### Key Topics:
+
 - [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 - [Analyzing Bundle Size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 - [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
@@ -96,4 +106,3 @@ npm run eject
 - Found an issue? Submit it via [GitHub Issues](https://github.com/facebook/create-react-app/issues).
 
 ---
-
